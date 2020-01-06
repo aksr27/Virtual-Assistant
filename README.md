@@ -1,5 +1,5 @@
-# Virtual-Assistant-Using-Google-API-In-Python
-An attempt to make a very simple, Personal Assistant that understands speech as well as text input and is capable of performing tasks other than conversing. It performs basic functionalities with required internet connection. It can perform tasks as follows: 
+# Virtual Assistant Using Google API In Python
+This is a simple Personal Assistant that understands speech as well as text input and is capable of performing tasks other than conversing. It performs basic functionalities with required internet connection. It can perform tasks as follows: 
 
 1. It can open any site for you where you can find anything you want to find.
 2. It can tell time, name, reboot system and other basic operations with operating system.
